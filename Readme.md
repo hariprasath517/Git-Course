@@ -6,3 +6,4 @@ This is a git course
 # This is a feature 2.0
 # This is from bug branch
 # This is commit 1
+# This is commit 2
