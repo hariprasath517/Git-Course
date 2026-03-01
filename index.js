@@ -1,1 +1,5 @@
-Console.log("Welcome to git course");
+Console.log("Welcome to git Playlist");
+for(var i=0;i<5;i++)
+{
+    console.log("Course Git");
+}
